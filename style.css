@@ -18,6 +18,7 @@ header{
 
 .logo{
     vertical-align: middle;
+    background-color: white;
 }
 
 .pics{
@@ -54,3 +55,27 @@ div{
     padding-left: 30px;
 }
 
+#Task{
+    display: inline;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: royalblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+#section{
+    display: inline;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: lightgrey;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+}
