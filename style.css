@@ -49,6 +49,7 @@ header{
 li{
     font-size: 20px;
     margin-top: 15px;
+    padding-bottom: 15px;
     padding-left: 30px;
     list-style: none;
 }
@@ -94,4 +95,28 @@ strong{
 
 .button{
     color: white;
+}
+
+#cyan{
+    background-color: #45ABEA;
+}
+
+#violet{
+    background-color: #9C72E4;
+}
+
+#magenta{
+    background-color: #D863A1;
+}
+
+#aquamarine{
+    background-color: #64C0A9;
+}
+
+#yellow{
+    background-color: #F29E33;
+}
+
+#green{
+    background-color: #B0C926;
 }
