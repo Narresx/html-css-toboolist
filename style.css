@@ -46,8 +46,10 @@ header{
 }
 
 li{
+    font-size: 20px;
     margin-top: 15px;
     padding-left: 30px;
+    list-style: none;
 }
 
 div{
@@ -78,4 +80,17 @@ div{
     border-radius: 15px;
     text-align: center;
     padding: 10px;
+}
+
+/* Buttons and items */
+#space{
+    padding-bottom: 20px;
+}
+
+strong{
+    font-size: 30px;
+}
+
+.button{
+    color: white;
 }
