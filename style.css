@@ -4,6 +4,15 @@
     padding: 0;
 }
 
-body{
-    background-color: aqua;
+/* Header */
+
+header{
+    
+}
+
+/* Under Header */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
 }
