@@ -4,15 +4,22 @@
     padding: 0;
 }
 
+/* Body */
+
+body{
+    background-color: #F6F8F9;
+}
 /* Header */
 
 header{
-    
+    font-weight: bolder;
 }
 
 /* Under Header */
 
 .container{
-    width: 80%;
+    border-radius: 10px;
+    width: 60%;
     margin: 0 auto;
+    background-color: white;
 }
