@@ -126,3 +126,29 @@ strong{
 
 /* Check & Cross*/
 
+
+.cross{
+    color: red;
+    font-size: 15px;
+    border-radius: 50%;
+    border: 1px solid red;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-color: currentColor;
+}
+
+.check{
+  color: green;
+  font-size: 15px;
+  border-radius: 50%;
+  border: 1px solid green;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-color: currentColor;
+}
